@@ -1,6 +1,5 @@
 package cn.raiyee.ec.admin.biz.activityAnalysis.service;
 
-import cn.raiyee.ec.admin.biz.activityAnalysis.domain.ActivityStatistic;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

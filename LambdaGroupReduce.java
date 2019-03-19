@@ -47,6 +47,9 @@ public class LambdaGroupReduce {
 
         log.info("demo1 {}", demo1);
         log.info("demo2 {}", demo2);
+
+        // demo1 {1=LambdaGroupReduce.Activity(id=1, pv=11, uv=14), 2=LambdaGroupReduce.Activity(id=2, pv=2, uv=2), 3=LambdaGroupReduce.Activity(id=3, pv=3, uv=3), 4=LambdaGroupReduce.Activity(id=4, pv=4, uv=4)}
+        // demo2 {1=LambdaGroupReduce.Activity(id=1, pv=11, uv=14), 2=LambdaGroupReduce.Activity(id=2, pv=2, uv=2), 3=LambdaGroupReduce.Activity(id=3, pv=3, uv=3), 4=LambdaGroupReduce.Activity(id=4, pv=4, uv=4)}
     }
 
     @Data
